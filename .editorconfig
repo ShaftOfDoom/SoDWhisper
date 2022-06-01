@@ -17,7 +17,7 @@ indent_style = space
 indent_size = 4
 
 # Ignore paths
-[/ClassicCastbars_Options/Libs/**]
+[/Libs/**]
 charset = unset
 end_of_line = unset
 insert_final_newline = unset
